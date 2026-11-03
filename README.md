@@ -1,168 +1,164 @@
-<!-- Profile README for @veenavikas -->
+<!-- ═══════════════════════════════════════════════════════════════
+     VEENA VIKAS B | GitHub Profile README
+     Animated profile • Modern dark theme • Commit activity
+════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Veena%20Vikas%20B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technology%20Leader%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58&descSize=16" alt="Animated profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,35:111827,70:312E81,100:06B6D4&height=230&section=header&text=VEENA%20VIKAS%20B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TECH%20LEADER%20%20%E2%80%A2%20%20FULL-STACK%20DEVELOPER%20%20%E2%80%A2%20%20AI%20BUILDER&descAlignY=58&descSize=15" alt="Animated neon profile banner"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+products+that+solve+real+problems;Leading+teams+%26+shipping+software;Exploring+Agentic+AI%2C+LLMs+%26+RAG;Learning%2C+building%2C+and+sharing+every+day" alt="Animated typing introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=Turning+ideas+into+digital+products+%F0%9F%9A%80;Leading+engineering+teams+%26+building+at+scale;Exploring+Agentic+AI+%7C+LLMs+%7C+RAG;Build.+Lead.+Teach.+Repeat." alt="Animated role and tagline"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digitalithub.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veenavikas/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veenavikas17@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=veenavikas&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+<a href="https://digitalithub.com"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-0B1220?style=for-the-badge&labelColor=0B1220" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/veenavikas/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:veenavikas17@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=veenavikas&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a technology professional based in **Visakhapatnam, India**, working across engineering leadership, product development, digital transformation, and technical education.
+### ⚡ ENGINEERING · LEADERSHIP · INNOVATION · AI
 
-- 🚀 Leading a **10-member remote engineering team** at Digital IT Hub.
-- 🧩 Built and delivered **50+ projects** across e-commerce, EdTech, AI, and automotive domains.
-- 🎓 Trained **200+ learners** in Data Analytics and MERN-stack development.
-- 🤖 Exploring **Agentic AI**, LLM applications, RAG pipelines, and intelligent automation.
-- 🏅 Google Project Management Certificate | Lean Six Sigma Yellow Belt.
-- 🌱 Interested in building scalable products and practical AI-powered solutions.
+</div>
 
-> I enjoy connecting business goals with engineering execution — and turning ideas into products people can use.
+## 👋 The person behind the code
 
-## 🧭 What I Work On
+I'm a technology professional from **Visakhapatnam, India**, working at the intersection of engineering, product strategy, AI, and technical education.
 
+- 🧑‍💻 Leading a **10-member remote engineering team** at Digital IT Hub.
+- 🚀 Built and delivered **50+ projects** across e-commerce, EdTech, AI, and automotive.
+- 🎓 Trained **200+ learners** in Data Analytics and MERN Stack.
+- 🧠 Exploring Agentic AI, LLM applications, RAG, and intelligent automation.
+- 🏅 Google Project Management Certificate · Lean Six Sigma Yellow Belt.
+
+> *I turn business challenges into technology solutions — and help teams and learners grow along the way.*
+
+## 🧩 My world of work
+
+<div align="center">
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Product & Engineering</h3>
-      <p>Full-stack applications, SaaS platforms, APIs, cloud deployments, and scalable web experiences.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 AI & Automation</h3>
-      <p>LLM-powered applications, RAG systems, AI agents, workflow automation, and experimentation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👥 Leadership & Delivery</h3>
-      <p>Engineering team leadership, project planning, delivery coordination, and product execution.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 Training & Mentorship</h3>
-      <p>Practical learning in MERN stack, Python, SQL, data analytics, and emerging technologies.</p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+
+### ⚙️ ENGINEERING
+
+Full-stack products<br/>SaaS · APIs · Cloud · Architecture
+
+</td>
+<td align="center" width="50%">
+
+### 🧠 ARTIFICIAL INTELLIGENCE
+
+LLMs · RAG · AI Agents<br/>Automation · Applied AI
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🚀 LEADERSHIP
+
+Team building · Product delivery<br/>Planning · Execution
+
+</td>
+<td align="center">
+
+### 🎓 KNOWLEDGE SHARING
+
+Technical training · Mentorship<br/>Career-focused learning
+
+</td>
+</tr>
 </table>
+</div>
 
-## 🛠️ Technology Toolbox
+## 🧰 Tech stack
 
 <div align="center">
 
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+### FRONTEND
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&theme=dark" alt="Frontend technologies"/>
 
-**Backend & APIs**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+### BACKEND & DATABASE
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mysql,mongodb,postgres,redis&theme=dark" alt="Backend and database technologies"/>
 
-**Data & Cloud**
-<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**AI, Data & Developer Tools**
-<br/>
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+### CLOUD, AI & TOOLS
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,openai,figma,vscode&theme=dark" alt="Cloud AI and developer tools"/>
 
 </div>
 
-## 🚀 Selected Projects
+## 🚀 Selected builds
 
-| Project | What it does | Technologies |
-|:--|:--|:--|
-| **The Swaadam** | B2C e-commerce platform for food and FMCG products. | React · Node.js · MySQL · AWS |
-| **Teachures** | Multi-tenant learning management platform with white-label support. | React · Node.js · MySQL |
-| **PostWise India** | AI-assisted content rewriting with Hindi and Telugu support and WhatsApp approval workflows. | AI · NLP · SaaS |
-| **SegoAuto** | Vehicle-tracking solution with API-key-based integrations. | Node.js · REST APIs |
-| **Agentic AI Experiments** | Hands-on exploration of LLMs, RAG, streaming, and agentic workflows. | Python · LangChain · Groq |
+| Project | The idea | Stack |
+|---|---|---|
+| **The Swaadam** | E-commerce experience for food and FMCG products | React · Node.js · MySQL · AWS |
+| **Teachures** | Multi-tenant LMS with white-label capabilities | React · Node.js · MySQL |
+| **PostWise India** | AI content rewriting with Hindi/Telugu support and WhatsApp approval workflows | AI · NLP · SaaS |
+| **SegoAuto** | Vehicle-tracking solution with API-key integrations | Node.js · REST APIs |
+| **Agentic AI Experiments** | Exploring LLMs, RAG, streaming, and agentic workflows | Python · LangChain · Groq |
 
-> Project details and deployment status evolve. Some entries are client or in-progress projects and may not have public source repositories.
+<sub>Some projects are client deployments or works in progress and may not have public repositories.</sub>
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=veenavikas&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenavikas&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=veenavikas&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=veenavikas&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
-
-</div>
-
-## 🏆 GitHub Trophies
+## 📊 GitHub command center
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=veenavikas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub profile trophies"/>
-
-</div>
-
-## 🎓 Training & Mentorship
-
-I enjoy helping aspiring developers build practical, job-ready skills through guided learning and project-based training.
-
-- **Full-Stack Development:** MongoDB, Express.js, React, Node.js.
-- **Data Analytics:** Python, SQL, Pandas, and data visualization.
-- **Emerging Technologies:** AI engineering and agentic application concepts.
-
-## 📜 Certifications & Learning
-
-- 🏅 **Google Project Management Certificate** — Google / Coursera (2025)
-- 🏅 **Lean Six Sigma Yellow Belt** (2022)
-- 🏅 **HTML Certification** — Front-end Development (2021)
-- 📚 **Agentic AI Engineering** — Learning and experimentation (2026)
-
-## 💬 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
-
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-veenavikas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veenavikas/)
-[![GitHub](https://img.shields.io/badge/GitHub-veenavikas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/veenavikas)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veenavikas17@gmail.com)
+<a href="https://github.com/veenavikas">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=veenavikas&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/veenavikas">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenavikas&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top languages"/>
+</a>
 
 <br/>
 
-**“I don't just build technology — I lead it, shape it, and teach it.”**
+<img width="75%" src="https://streak-stats.demolab.com?user=veenavikas&hide_border=true&theme=tokyonight&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" alt="Animated footer wave"/>
+<br/>
+
+### 🟢 Contribution activity
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=veenavikas&bg_color=0D1117&color=C9D1D9&line=818CF8&point=22D3EE&area=true&hide_border=true&custom_title=VEENA'S%20CONTRIBUTION%20GRAPH" alt="GitHub contribution graph"/>
+
+### 🏆 Achievements
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=veenavikas&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
+
+</div>
+
+## 🎓 Training & mentorship
+
+Helping aspiring professionals develop real-world skills through practical learning and project-driven training.
+
+- **Full-Stack Development:** MERN stack
+- **Data Analytics:** Python, SQL, Pandas, visualization
+- **AI Engineering:** LLMs, RAG, and agentic application concepts
+
+## 📜 Certifications & continuous learning
+
+- 🏅 Google Project Management Certificate — Google / Coursera (2025)
+- 🏅 Lean Six Sigma Yellow Belt (2022)
+- 🏅 HTML Certification — Front-end Development (2021)
+- 🧠 Agentic AI Engineering — ongoing learning and experimentation
+
+## 💌 Let's build something meaningful
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/veenavikas/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:veenavikas17@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/veenavikas"><img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1800&color=22D3EE&center=true&vCenter=true&width=650&lines=I+don't+just+build+technology...;I+lead+it.+I+shape+it.+I+teach+it." alt="Animated closing quote"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,35:111827,70:312E81,100:06B6D4&height=130&section=footer" alt="Animated footer wave"/>
 
 </div>
