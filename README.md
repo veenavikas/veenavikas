@@ -2,15 +2,18 @@
 
 <div align="center">
 
-# Hey, I'm Veena Vikas B 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Veena%20Vikas%20B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technology%20Leader%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58&descSize=16" alt="Animated profile banner"/>
 
-### Technology Leader · Full-Stack Developer · Technical Trainer · AI Builder
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+products+that+solve+real+problems;Leading+teams+%26+shipping+software;Exploring+Agentic+AI%2C+LLMs+%26+RAG;Learning%2C+building%2C+and+sharing+every+day" alt="Animated typing introduction"/>
+</a>
 
-Building useful products, guiding engineering teams, and helping people grow through technology.
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digitalithub.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veenavikas/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veenavikas17@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=veenavikas&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 
 </div>
 
@@ -104,14 +107,24 @@ I'm a technology professional based in **Visakhapatnam, India**, working across 
 
 > Project details and deployment status evolve. Some entries are client or in-progress projects and may not have public source repositories.
 
-## 📊 GitHub at a Glance
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=veenavikas&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Veena's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenavikas&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=veenavikas&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenavikas&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=veenavikas&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=veenavikas&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=veenavikas&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=veenavikas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub profile trophies"/>
 
 </div>
 
@@ -130,9 +143,15 @@ I enjoy helping aspiring developers build practical, job-ready skills through gu
 - 🏅 **HTML Certification** — Front-end Development (2021)
 - 📚 **Agentic AI Engineering** — Learning and experimentation (2026)
 
-## 🤝 Let's Connect
+## 💬 Developer Quote
 
-I'm always glad to connect with people working on technology, product ideas, engineering, AI, and learning communities.
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
+
+</div>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -143,5 +162,7 @@ I'm always glad to connect with people working on technology, product ideas, eng
 <br/>
 
 **“I don't just build technology — I lead it, shape it, and teach it.”**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" alt="Animated footer wave"/>
 
 </div>
